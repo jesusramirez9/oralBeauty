@@ -1,0 +1,9 @@
+.bg-footer{
+    background-color: #242B57;
+}
+.btn-social:hover .icon-p{
+    display: none;
+}
+.btn-social:hover .icon-s{
+    display: block;
+}
